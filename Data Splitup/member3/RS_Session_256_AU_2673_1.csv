@@ -1,0 +1,17 @@
+Category,City/Highway,Charging Stations
+City,Chandigarh,48
+City,Delhi,94
+City,Jaipur,49
+City,B'Lore,60
+City,Ranchi,30
+City,Lucknow,1
+City,Goa,30
+City,Hyderabad,57
+City,Agra,15
+City,Shimla,9
+Total,Total,393
+Highway,Delhi -Chandigarh,24
+Highway,Mum-Pune,16
+Highway,Delhi- Jaipur- Agra,31
+Highway,Jaipur-Delhi Highway,9
+Total,Total,80

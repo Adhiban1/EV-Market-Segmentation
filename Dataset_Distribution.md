@@ -26,4 +26,4 @@ Member 3 | 81 | 26
 Member 4 | 66 | 14
 Member 5 | 1124 | 41
 
-You can download dataset [here](zipfiles)
+You can download dataset [here](Data%20Splitup) ([.zip](zipfiles))

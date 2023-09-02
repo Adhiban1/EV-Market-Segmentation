@@ -1,0 +1,12 @@
+Brand Name,Battery Capacity(kWh),Acceleration(sec),TopSpeed(km/h),Range(km),Max Power(kW),Max Torque(Nm),Transmission,No. of Seats,Charging T(h),No. of Airbags,Drive Type,Price(Lh)
+Audi RS e-tron GT ,93.4,3.3,250,480,500,830,Automatic,5,9,Yes,AWD,204
+Audi e-tron GT ,93.4,4.1,245,500,523,630,Automatic,5,9,Yes,AWD,179
+Audi e-tron ,95,5.7,200,484,300,664,Automatic,5,9,Yes,AWD,123
+Tata Nexon EV,30.2,9.9,180,312,96,245,Automatic,5,9,Yes,FWD,17
+Tata Tigor EV,26,5.7,120,306,55,170,Automatic,5,9,Yes,FWD,14
+Hyudai Kona Electric,39.2,9.7,155,452,103,395,Automatic,5,7,Yes,FWD,24
+Jaguar I-Pace,90,4.8,200,470,294,696,Automatic,5,13,Yes,AWD,112
+Mahindra eVerito,21.2,11.2,86,140,33,91,Automatic,5,12,Yes,FWD,10
+MG ZS EV,44.5,8.5,120,340,107,353,Automatic,5,8,Yes,FWD,25
+Mercedes Benz EQC,80,5.1,180,414,304,760,Automatic,5,21,Yes,AWD,100
+Mahindra e2op4/p6,10.08,8,80,100,19,70,Automatic,4,8,No,RWD,9
