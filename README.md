@@ -7,15 +7,14 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-# My workflow
+# Workflow
 
 |Date|What to do|
 |--|--|
-|Aug 31 - Sep 1|Project Kick-off and Data Collection|
-|Sep 2 - Sep 3|Intensive Data Collection and Research|
-|Sep 4 - Sep 5|Data Analysis|
-|Sep 6 - Sep 8|Market Segmentation|
-|Sep 9 - Sep 10|Segment Profiling|
-|Sep 11 - Sep 12|Strategy Outline|
-|Sep 13|Finalization|
+|Aug 31 - Sep 2|Project Kick-off and Data Collection|
+|Sep 3 - Sep 4|Intensive Data Collection and Research|
+|Sep 5 - Sep 7|Data Analysis|
+|Sep 8 - Sep 9|Market Segmentation|
+|Sep 10 - Sep 11|Segment Profiling|
+|Sep 12 - Sep 13|Strategy Outline|
 |Sep 14|Submission|
