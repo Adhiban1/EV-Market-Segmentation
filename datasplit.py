@@ -30,9 +30,7 @@ with open('files.csv', 'r') as f:
 
 if pre_files == files:
     print('No change in files')
-    new_files = False
 else:
-    new_files = True
     print('New files:')
     for i in files:
         if i not in pre_files:
@@ -48,6 +46,7 @@ def csv_details(files):
     dfs = {}
     data = []
     for f in files:
+        print(f)
         df = pd.read_csv(f)
         name = os.path.basename(f)
         dfs[name] = df
@@ -66,13 +65,12 @@ dfs, details, no_duplicate_filenames = csv_details(files)
 print(details)
 print(no_duplicate_filenames)
 
-# dataset splitup to 5 team members
+# dataset random splitup to 5 team members
 d = {}
 for i in details.values:
     d[i[3]] = i[0]
 
 print(f'{details["cells"].sum()/5 = }')
-print(f'{(details["cells"].sum()-1914778)/5 = }')
 
 cells = list(details["cells"])
 
@@ -124,32 +122,24 @@ def even_splitup(min_rows):
         splitup_name.append(temp)
     return splitup, sum_val, splitup_name
 
-if new_files:
-    splitup, sum_val, splitup_name = even_splitup(5000)
+splitup, sum_val, splitup_name = even_splitup(100000)
 
-    print(f'{splitup = }')
-    print(f'{splitup_name = }')
+print(f'{splitup = }')
+print(f'{splitup_name = }')
 
-    with open('splitup.txt', 'w') as f:
-        f.write(f'{splitup = }\n{splitup_name = }')
+with open('splitup.txt', 'w') as f:
+    f.write(f'{splitup = }\n{splitup_name = }\n{sum_val = }')
 
 # seperate dataset in folders
 m = 0
-if not os.path.exists('splitup'):
-    os.mkdir('splitup')
-    for i in splitup_name:
-        m += 1
-        os.mkdir(f'splitup/member{m}')
-        for j in i:
-            dfs[j].to_csv(f'splitup/member{m}/{j}', index=False)
-elif new_files:
-    os.system('rm -rf splitup')
-    os.mkdir('splitup')
-    for i in splitup_name:
-        m += 1
-        os.mkdir(f'splitup/member{m}')
-        for j in i:
-            dfs[j].to_csv(f'splitup/member{m}/{j}', index=False)
-    print('"splitup" folder modified')
-else:
-    print('"splitup" no change')
+if os.path.exists('dataset splitup'):
+    os.system('rm -rf dataset\ splitup')
+os.mkdir('dataset splitup')
+for i in splitup_name:
+    m += 1
+    os.mkdir(f'dataset splitup/dataset{m}')
+    for j in i:
+        dfs[j].to_csv(f'dataset splitup/dataset{m}/{j}', index=False)
+
+with ZipFile('dataset splitup.zip', 'w') as f:
+    f.write('dataset splitup')

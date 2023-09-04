@@ -1,0 +1,51 @@
+Region,Country,Vehicle Type,Body Type,Sub Body Type,Engine Type,Fuel Type,Metric,Units
+Asia-Pacific,India,Passenger Vehicles,* All,* All,Hybrid and Electric Vehicles,HEV,Volume,Units
+Asia-Pacific,India,Passenger Vehicles,* All,* All,Hybrid and Electric Vehicles,PHEV,Volume,Units
+Asia-Pacific,India,Passenger Vehicles,* All,* All,Hybrid and Electric Vehicles,BEV,Volume,Units
+Asia-Pacific,India,Passenger Vehicles,* All,* All,Hybrid and Electric Vehicles,FCEV,Volume,Units
+Asia-Pacific,India,Passenger Vehicles,* All,* All,Hybrid and Electric Vehicles,* All,Volume,Units
+Asia-Pacific,India,Passenger Vehicles,Passenger Cars,Hatchback,Hybrid and Electric Vehicles,* All,Volume,Units
+Asia-Pacific,India,Passenger Vehicles,Passenger Cars,Sedan,Hybrid and Electric Vehicles,* All,Volume,Units
+Asia-Pacific,India,Passenger Vehicles,Passenger Cars,Sports Utility Vehicle,Hybrid and Electric Vehicles,* All,Volume,Units
+Asia-Pacific,India,Passenger Vehicles,Passenger Cars,Multi-purpose Vehicle,Hybrid and Electric Vehicles,* All,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,* All,* All,Hybrid and Electric Vehicles,* All,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,* All,* All,Hybrid and Electric Vehicles,BEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,* All,* All,Hybrid and Electric Vehicles,PHEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,* All,* All,Hybrid and Electric Vehicles,HEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,* All,* All,Hybrid and Electric Vehicles,FCEV,Volume,Units
+Asia-Pacific,India,Two-Wheelers,* All,* All,Hybrid and Electric Vehicles,* All,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Light Commercial Vehicles,Light Commercial Pick-up Trucks,Hybrid and Electric Vehicles,HEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Light Commercial Vehicles,Light Commercial Pick-up Trucks,Hybrid and Electric Vehicles,PHEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Light Commercial Vehicles,Light Commercial Pick-up Trucks,Hybrid and Electric Vehicles,BEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Light Commercial Vehicles,Light Commercial Pick-up Trucks,Hybrid and Electric Vehicles,FCEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Light Commercial Vehicles,Light Commercial Pick-up Trucks,Hybrid and Electric Vehicles,* All,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Light Commercial Vehicles,* All,Hybrid and Electric Vehicles,HEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Light Commercial Vehicles,* All,Hybrid and Electric Vehicles,PHEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Light Commercial Vehicles,* All,Hybrid and Electric Vehicles,BEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Light Commercial Vehicles,* All,Hybrid and Electric Vehicles,FCEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Light Commercial Vehicles,* All,Hybrid and Electric Vehicles,* All,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Light Commercial Vehicles,Light Commercial Vans,Hybrid and Electric Vehicles,HEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Light Commercial Vehicles,Light Commercial Vans,Hybrid and Electric Vehicles,PHEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Light Commercial Vehicles,Light Commercial Vans,Hybrid and Electric Vehicles,BEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Light Commercial Vehicles,Light Commercial Vans,Hybrid and Electric Vehicles,FCEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Light Commercial Vehicles,Light Commercial Vans,Hybrid and Electric Vehicles,* All,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Trucks,Medium-duty Commercial Trucks,Hybrid and Electric Vehicles,HEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Trucks,Medium-duty Commercial Trucks,Hybrid and Electric Vehicles,PHEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Trucks,Medium-duty Commercial Trucks,Hybrid and Electric Vehicles,BEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Trucks,Medium-duty Commercial Trucks,Hybrid and Electric Vehicles,FCEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Trucks,Medium-duty Commercial Trucks,Hybrid and Electric Vehicles,* All,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Trucks,Heavy-duty Commercial Trucks,Hybrid and Electric Vehicles,HEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Trucks,Heavy-duty Commercial Trucks,Hybrid and Electric Vehicles,PHEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Trucks,Heavy-duty Commercial Trucks,Hybrid and Electric Vehicles,BEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Trucks,Heavy-duty Commercial Trucks,Hybrid and Electric Vehicles,FCEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Trucks,Heavy-duty Commercial Trucks,Hybrid and Electric Vehicles,* All,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Medium and Heavy Duty Buses,Buses,Hybrid and Electric Vehicles,HEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Medium and Heavy Duty Buses,Buses,Hybrid and Electric Vehicles,PHEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Medium and Heavy Duty Buses,Buses,Hybrid and Electric Vehicles,BEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Medium and Heavy Duty Buses,Buses,Hybrid and Electric Vehicles,FCEV,Volume,Units
+Asia-Pacific,India,Commercial Vehicles,Medium and Heavy Duty Buses,Buses,Hybrid and Electric Vehicles,* All,Volume,Units
+Asia-Pacific,India,* All,* All,* All,Hybrid and Electric Vehicles,HEV,Volume,Units
+Asia-Pacific,India,* All,* All,* All,Hybrid and Electric Vehicles,PHEV,Volume,Units
+Asia-Pacific,India,* All,* All,* All,Hybrid and Electric Vehicles,BEV,Volume,Units
+Asia-Pacific,India,* All,* All,* All,Hybrid and Electric Vehicles,FCEV,Volume,Units
+Asia-Pacific,India,* All,* All,* All,Hybrid and Electric Vehicles,* All,Volume,Units

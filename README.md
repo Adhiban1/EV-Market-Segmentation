@@ -7,7 +7,16 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-# Workflow
+## Team members
+|Name|GitHub repo link|
+|--|--|
+|Adhiban Siddarth ![Me](https://img.shields.io/badge/Me-green) ![Team Lead](https://img.shields.io/badge/Team_Lead-red) | [![GitHub Link](https://img.shields.io/badge/GitHub-Link-blue?logo=github&logoColor=white)](https://github.com/Adhiban1/EV-Market-Segmentation) |
+|Karakavalasa venkata pranay | [![GitHub Link](https://img.shields.io/badge/GitHub-Link-blue?logo=github&logoColor=white)]() |
+|Malay Vyas | [![GitHub Link](https://img.shields.io/badge/GitHub-Link-blue?logo=github&logoColor=white)]() |
+|Shreyash Banduji Chacharkar | [![GitHub Link](https://img.shields.io/badge/GitHub-Link-blue?logo=github&logoColor=white)]() |
+|Yash Mayur | [![GitHub Link](https://img.shields.io/badge/GitHub-Link-blue?logo=github&logoColor=white)]() |
+
+## Workflow
 
 |Date|What to do|
 |--|--|
@@ -18,3 +27,15 @@
 |Sep 10 - Sep 11|Segment Profiling|
 |Sep 12 - Sep 13|Strategy Outline|
 |Sep 14|Submission|
+
+## Dataset splitup
+
+[dataset splitup](splitup)
+
+|Dataset|No of cells|
+|--|--|
+|1|125877|
+|2|113700|
+|3|112171|
+|4|1915898|
+|5|1551717|
