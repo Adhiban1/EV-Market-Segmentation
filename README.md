@@ -30,7 +30,7 @@
 
 ## Dataset splitup
 
-[dataset splitup](splitup)
+[dataset splitup](dataset%20splitup)
 
 |Dataset|No of cells|Selected by|
 |--|--|--|
