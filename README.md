@@ -28,6 +28,34 @@
 |Sep 12 - Sep 13|Strategy Outline|
 |Sep 14|Submission|
 
+## dataset.zip
+
+Each teammate should collect atleast 2 dataset.
+
+```
+dataset.zip
+├── dataset
+├── files
+```
+
+- **dataset**: contains csv files
+- **files**: contains other file formats like pdf
+
+```
+dataset
+├── Adhiban
+│   └── *.csv
+├── Malay
+│   └── *.csv
+├── Pranay
+│   └── *.csv
+├── Shreyash
+│   └── *.csv
+└── Yash
+    └── *.csv
+15 directories, 33 files
+```
+
 ## Dataset splitup
 
 [dataset splitup](dataset%20splitup)
