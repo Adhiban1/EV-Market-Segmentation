@@ -1,0 +1,44 @@
+input {
+    font-size: 100%;
+    padding: 10px;
+    margin: 5px;
+}
+
+body {
+    background-color: rgb(232, 232, 232);
+    margin: 0px;
+}
+
+label {
+    font-size: 100%;
+    font-weight: bold;
+}
+
+#fields {
+    text-align: right;
+}
+
+#price{
+    font-size: 150%;
+}
+
+#title {
+    background-color: aqua;
+    padding: 10px;
+    margin-top: 0px;
+    padding-left: 50px;
+}
+
+#submit {
+    border-radius: 10px;
+    border: 1px solid;
+    cursor: pointer;
+    background-color: aqua;
+    transition: 0.5s;
+    font-weight: bold;
+}
+
+#submit:hover {
+    color: aqua;
+    background-color: black;
+}

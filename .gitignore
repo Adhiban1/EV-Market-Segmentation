@@ -2,4 +2,4 @@ dataset
 files
 dataset\ splitup.zip
 .ipynb_checkpoints
-model
+__pycache__

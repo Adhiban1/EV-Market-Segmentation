@@ -67,3 +67,13 @@ dataset
 |3|112171|Yash|
 |4|1915898|Malay|
 |5|1551717|Shreyash|
+
+## Car Price Prediction
+
+```
+pip install flask scikit-learn
+```
+
+```
+python app.py
+```

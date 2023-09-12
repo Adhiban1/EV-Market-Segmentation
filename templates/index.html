@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="/static/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="title">Car Price Prediction</h1>
+    <center>
+        <form action="/" method="POST">
+            <table>
+                {% for i,j in zip_data %}
+                <tr><td id="fields"><label>{{i}}</label></td><td><input type="text" name="{{i}}" value="{{j}}"></td></tr>
+                {% endfor %}
+                <tr><td></td><td><input type="submit" name="submit" id="submit"></td></tr>
+            </table>
+        </form>
+        <p>{{values}}</p>
+        <p id="price">₹{{price}}</p>
+    </center>
+</body>
+</html>

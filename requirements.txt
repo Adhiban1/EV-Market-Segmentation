@@ -3,5 +3,6 @@ numpy
 pandas
 seaborn
 tensorflow-cpu
-sklearn
+scikit-learn
 matplotlib
+flask
