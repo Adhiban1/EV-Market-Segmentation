@@ -70,10 +70,26 @@ dataset
 
 ## Car Price Prediction
 
+Flask App:
+
 ```
 pip install flask scikit-learn
 ```
 
 ```
 python app.py
+```
+
+[![Docker image](https://img.shields.io/badge/Docker_image-Link-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed.svg)](https://hub.docker.com/r/adhiban/car-price)
+
+Docker pull:
+
+```
+docker pull adhiban/car-price
+```
+
+Docker run:
+
+```
+docker run -p 5000:5000 adhiban/car-price
 ```
