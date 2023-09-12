@@ -1,0 +1,7 @@
+textblob
+numpy
+pandas
+seaborn
+tensorflow-cpu
+sklearn
+matplotlib
