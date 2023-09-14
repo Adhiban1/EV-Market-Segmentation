@@ -7,6 +7,14 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+## Introduction
+
+This project aims to segment the EV market in India. We will use a variety of methods, including market research, customer surveys, and statistical analysis. The goal of the project is to identify the different segments of the EV market and understand their needs and preferences. This information will be used to develop strategies to target these segments and grow the EV market in India.
+
+- Electric Vehicle Market Segmentation Analysis  -  jupyter notebook [link](main.ipynb) 
+- Dataset [link](dataset)
+- Dataset Splitup [link](dataset%20splitup)
+
 ## Team members
 |Name|GitHub repo link|
 |--|--|
