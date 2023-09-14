@@ -16,6 +16,7 @@ This project aims to segment the EV market in India. We will use a variety of me
 - Electric Vehicle Market Segmentation Analysis  -  jupyter notebook [link](main.ipynb) 
 - Dataset [link](dataset)
 - Dataset Splitup [link](dataset%20splitup)
+- Final report [link](reports)
 
 ## Team members
 |Name|GitHub repo link|
