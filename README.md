@@ -39,12 +39,11 @@ This project aims to segment the EV market in India. We will use a variety of me
 |Sep 12 - Sep 13|Strategy Outline|
 |Sep 14|Submission|
 
-## dataset.zip
+## dataset and files
 
 Each teammate should collect atleast 2 dataset.
 
 ```
-dataset.zip
 ├── dataset
 ├── files
 ```
@@ -78,6 +77,11 @@ dataset
 |3|112171|Yash|
 |4|1915898|Malay|
 |5|1551717|Shreyash|
+
+## Final report
+Final report is the combination all our reports.
+
+[Final report pdf link](reports/Team-Adhiban.pdf)
 
 ## Car Price Prediction
 
